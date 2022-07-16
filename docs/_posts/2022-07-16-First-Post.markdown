@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  First Post
+title:  first post
 date:   2022-07-16 15:00:00 +0300
 categories: post update
 ---
