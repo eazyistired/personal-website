@@ -22,5 +22,10 @@ title: Posts
       {%- endfor -%}
     </ul>
   {%- endif -%}
+<<<<<<< HEAD
 </div>
 
+=======
+
+</div>
+>>>>>>> 7a0bf42dc0df7d6678091546efe860ba754f3291
