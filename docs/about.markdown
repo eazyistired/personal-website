@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+Here are my credentials:
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/fb8e33a7-3cdb-4f7d-b5db-96b7a34972d6?source=linked_in_profile)
+
 Here are my socials:
 
 <div class="footer-col footer-col-1">
