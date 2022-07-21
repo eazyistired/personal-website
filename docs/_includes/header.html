@@ -1,5 +1,5 @@
 <header class="site-header" role="banner">
-
+  
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
@@ -15,9 +15,14 @@
 
         <div class="trigger">
           {%- for my_page in site.data.navigation -%}
+            {%- if page.url contains my_page.url -%}
+                {%- assign class="active" -%}
+            {%- endif -%}
+
             {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url}}">{{ my_page.title | escape }}</a>
             {%- endif -%}
+
           {%- endfor -%}
         </div>
       </nav>

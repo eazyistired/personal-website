@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Entries
+title: Posts
 ---
 
 <div class="posts">
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.status != "idle" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -19,6 +20,7 @@ title: Entries
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
   {%- endif -%}

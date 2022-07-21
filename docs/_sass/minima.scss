@@ -53,3 +53,8 @@ $on-laptop: 800px !default;
 "minima/layout",
 "minima/syntax-highlighting"
 ;
+
+.active {
+  background-color: $mustard-color;
+  color: $mustard-color-light;
+}

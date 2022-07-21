@@ -5,7 +5,6 @@
 layout: home
 title: Home
 ---
-This is my home page.
 
 See [my resume](./resume)
 

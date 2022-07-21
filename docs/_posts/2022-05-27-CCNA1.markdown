@@ -1,5 +1,0 @@
----
-layout: post
-title: CCNA1
-categories: post update
----

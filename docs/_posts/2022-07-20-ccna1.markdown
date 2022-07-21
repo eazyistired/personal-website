@@ -1,0 +1,6 @@
+---
+layout: post
+title: CCNA 1
+status: idle
+---
+
