@@ -27,14 +27,15 @@ University student interested in programming, networking, rtl design and many mo
 
 - **Languages:** English(proficient)
 - **Programming:**
-    - C++ (good knowledge)
-    - Python & pygame (medium)
+    - C++ (proficient)
+    - Python & pygame (competent)
+    - MATLAB (beginner)
 - **RTL design:**
-    - verilog
-    - system verilog
+    - verilog (advanced)
+    - system verilog (beginner)
 - **Networking:**
     - CCNA 1
-- **Microsoft Office:** Word, Excel & Power Point
+- **Microsoft Office:** Word, Excel & Power Point (proficient)
 
 ---
 
