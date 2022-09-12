@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infineon Summer School
-status: idle
+status: draft
 ---
 
 # Infineon Summer School
