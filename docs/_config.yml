@@ -21,7 +21,7 @@
 title: eazyistired
 email: catalin.grozavu0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Grzv's website.
+  I’m an university student interested in programming, rtl design, networking and many more. :)
 baseurl: "/personal-website" # the subpath of your site, e.g. /blog
 url: "http://eazyistired.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
