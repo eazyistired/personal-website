@@ -1,2 +1,2 @@
 # personal-website
-blank
+My own space to write and document my progress.
