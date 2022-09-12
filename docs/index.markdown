@@ -1,10 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Home
 ---
+
+## *Grozavu Catalin-Andrei*
+
+I'm an university student interested in programming, rtl design, networking and many more. :)
 
 See [my resume](./resume)
 
