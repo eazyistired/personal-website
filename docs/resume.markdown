@@ -39,7 +39,7 @@ University student interested in programming, rtl design, networking and many mo
     - CCNA 1
 - **Others:** 
     - Latex (beginner)
-
+    - Linux (beginner)
 ---
 
 ### **Projects**
