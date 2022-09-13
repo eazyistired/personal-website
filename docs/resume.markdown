@@ -89,6 +89,7 @@ University student interested in programming, rtl design, networking and many mo
 
     - Technologies: python & flask framework, javascript, html
     - Relationship: author
+
 ---
 
 ### **Volunteering**
@@ -97,3 +98,4 @@ University student interested in programming, rtl design, networking and many mo
 
 - Volunteering as a member of the Educational department
     - Participated in the University's Exam Simulation in the summer of 2021 and 2022
+    

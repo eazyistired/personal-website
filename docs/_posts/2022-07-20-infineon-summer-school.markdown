@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infineon Summer School
-status: idle
+status: draft
 ---
 
 ## [UART-TRANSMITTER](https://github.com/eazyistired/UART_TRANSMITTER)
@@ -20,7 +20,6 @@ Tools:
 - X2GO
 - gedit
 - Cadence XCelium
-
 
 <!-- We started by visiting the company's HQ in Bucharest. We saw their labs and their work flow and watched a presentation about all the stages of developing a product.
 
