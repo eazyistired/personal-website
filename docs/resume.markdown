@@ -40,6 +40,7 @@ University student interested in programming, rtl design, networking and many mo
 - **Others:** 
     - Latex (beginner)
     - Linux (beginner)
+
 ---
 
 ### **Projects**
