@@ -4,8 +4,6 @@ title: Infineon Summer School
 status: draft
 ---
 
-# Infineon Summer School
-
 ## [UART-TRANSMITTER](https://github.com/eazyistired/UART_TRANSMITTER)
 
 The project is an implementation of an Universal Asynchronous Reciever-Transmitter developed during the first week of Infineon Summer School.
@@ -15,7 +13,7 @@ UART is a module used in asynchronous serial communication. Serial communication
 ---
 
 Technologies:
-- verilog
+- verilog & system verilog
 - linux
 
 Tools:
@@ -23,4 +21,12 @@ Tools:
 - gedit
 - Cadence XCelium
 
----
+<!-- We started by visiting the company's HQ in Bucharest. We saw their labs and their work flow and watched a presentation about all the stages of developing a product.
+
+On the day after we began working on the project.
+At first we started small: learned a few linux commands, downloaded X2GO and learned to use it.
+
+After that we started working on our designs and tested them using Cadence XCelium:
+
+*Baudrate generator*
+-  -->

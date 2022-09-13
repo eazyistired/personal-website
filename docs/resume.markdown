@@ -65,6 +65,13 @@ University student interested in programming, rtl design, networking and many mo
     - Technologies: c++
     - Relationship: co-author
 
+- **Image Manipulation**
+
+    A project assigned by one of my professors during my first year at Uni, which aims to reduce the number of colors in an image using k-means clustering algorithm.
+
+    - Technologies: c++
+    - Relationship: co-author
+
 - [**This website**](https://eazyistired.github.io/personal-website/)
 
     A website designed to reflect my personality and document my progress.
@@ -78,11 +85,11 @@ University student interested in programming, rtl design, networking and many mo
 
     A web based app developed for an educational centre I'm working at.
 
-    -Not finished
+    -Currently working on
 
     - Technologies: python & flask framework, javascript, html
     - Relationship: author
-   
+
 ---
 
 ### **Volunteering**
@@ -91,3 +98,4 @@ University student interested in programming, rtl design, networking and many mo
 
 - Volunteering as a member of the Educational department
     - Participated in the University's Exam Simulation in the summer of 2021 and 2022
+    
